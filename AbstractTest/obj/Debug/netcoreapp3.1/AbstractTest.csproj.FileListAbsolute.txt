@@ -1,0 +1,11 @@
+C:\CodebitsAcademy\c#\PraticalKnowledeAccessment\AbstractTest\obj\Debug\netcoreapp3.1\AbstractTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\c#\PraticalKnowledeAccessment\AbstractTest\obj\Debug\netcoreapp3.1\AbstractTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\c#\PraticalKnowledeAccessment\AbstractTest\obj\Debug\netcoreapp3.1\AbstractTest.AssemblyInfo.cs
+C:\CodebitsAcademy\c#\PraticalKnowledeAccessment\AbstractTest\bin\Debug\netcoreapp3.1\AbstractTest.exe
+C:\CodebitsAcademy\c#\PraticalKnowledeAccessment\AbstractTest\bin\Debug\netcoreapp3.1\AbstractTest.deps.json
+C:\CodebitsAcademy\c#\PraticalKnowledeAccessment\AbstractTest\bin\Debug\netcoreapp3.1\AbstractTest.runtimeconfig.json
+C:\CodebitsAcademy\c#\PraticalKnowledeAccessment\AbstractTest\bin\Debug\netcoreapp3.1\AbstractTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\c#\PraticalKnowledeAccessment\AbstractTest\bin\Debug\netcoreapp3.1\AbstractTest.dll
+C:\CodebitsAcademy\c#\PraticalKnowledeAccessment\AbstractTest\bin\Debug\netcoreapp3.1\AbstractTest.pdb
+C:\CodebitsAcademy\c#\PraticalKnowledeAccessment\AbstractTest\obj\Debug\netcoreapp3.1\AbstractTest.dll
+C:\CodebitsAcademy\c#\PraticalKnowledeAccessment\AbstractTest\obj\Debug\netcoreapp3.1\AbstractTest.pdb
